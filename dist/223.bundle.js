@@ -1,0 +1,2 @@
+/*! For license information please see 223.bundle.js.LICENSE.txt */
+"use strict";(self.webpackChunkbookloop_copie=self.webpackChunkbookloop_copie||[]).push([[223],{223:(p,e,o)=>{o.d(e,{initializeApp:()=>i.Wp});var i=o(990);(0,i.KO)("firebase","11.0.1","app")}}]);
